@@ -8,7 +8,7 @@
 
 ## The following image shows the Start page of the quiz:
 <img 
-src="./assets/screenshot/start.png">
+src="./assets/screenshot/Start.png">
 
 ## The following image shows the Start page of the quiz:
 <img 
